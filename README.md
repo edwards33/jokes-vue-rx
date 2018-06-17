@@ -5,7 +5,7 @@
 ## Goals
 
 Example of vue.js and RxJs usage.
-The site is published at [https://edwards33.github.io/jokes-vue-rx/](https://edwards33.github.io/jokes-vue-rx/)
+The site is published at [https://edwards33.github.io/jokes-vue-rx/](https://edwards33.github.io/jokes-vue-rx/).
 App loads Chuck Norris jokes from RESTful API ([link](http://www.icndb.com/))
 
 ## Libraries and Frameworks used

@@ -40,7 +40,7 @@
 <script>
 import {Observable} from 'rxjs/Rx'
 
-const JOKES_URL = 'http://api.icndb.com/jokes/random/15'
+const JOKES_URL = 'https://api.icndb.com/jokes/random/15'
 
 export default {
   name: 'app',
